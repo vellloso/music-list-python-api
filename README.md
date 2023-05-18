@@ -7,7 +7,7 @@
 
 
 
-json sample to add and adit musics:
+json sample to add and edit musics:
 {
 	"music_author": "_____",
 	"music_producer": "_____",
